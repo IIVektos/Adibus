@@ -1,4 +1,4 @@
-{"week":2,"routes":288,"table":[
+{"count":288,"table":[
 {"id":1,"time":"12:06:06","bus":"001S","d1":"Primary destination æÆøØåÅÉéÄäÜü 12:06:06","d2":"Secondary destination"},
 {"id":2,"time":"12:01:06","bus":"002S","d1":"Primary destination æÆøØåÅÉéÄäÜü 12:01:06","d2":"Secondary destination"},
 {"id":3,"time":"11:56:06","bus":"003S","d1":"Primary destination æÆøØåÅÉéÄäÜü 11:56:06","d2":"Secondary destination"},
@@ -287,3 +287,5 @@
 {"id":286,"time":"12:21:06","bus":"286S","d1":"Primary destination æÆøØåÅÉéÄäÜü 12:21:06","d2":"Secondary destination"},
 {"id":287,"time":"12:16:06","bus":"287S","d1":"Primary destination æÆøØåÅÉéÄäÜü 12:16:06","d2":"Secondary destination"},
 {"id":288,"time":"12:11:06","bus":"288S","d1":"Primary destination æÆøØåÅÉéÄäÜü 12:11:06","d2":"Secondary destination"}]}
+
+
