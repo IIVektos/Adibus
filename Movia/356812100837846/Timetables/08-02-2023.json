@@ -1,5 +1,5 @@
 {"count":4,"table":[
-{"id":1,"time":"11:47:36","bus":"001S","d1":"Primary destination æÆøØåÅÉéÄäÜü","d2":"Secondary destination"},
-{"id":2,"time":"11:48:24","bus":"002S","d1":"Primary destination æÆøØåÅÉéÄäÜü","d2":"Secondary destination"},
-{"id":3,"time":"12:00:06","bus":"003S","d1":"Primary destination æÆøØåÅÉéÄäÜü","d2":"Secondary destination"},
-{"id":4,"time":"12:05:45","bus":"004S","d1":"Primary destination æÆøØåÅÉéÄäÜü","d2":"Secondary destination"}]}
+{"id":1,"time":"11:50:36","bus":"001S","d1":"Primary destination æÆøØåÅÉéÄäÜü","d2":"Secondary destination"},
+{"id":2,"time":"11:51:24","bus":"002S","d1":"Primary destination æÆøØåÅÉéÄäÜü","d2":"Secondary destination"},
+{"id":3,"time":"12:05:06","bus":"003S","d1":"Primary destination æÆøØåÅÉéÄäÜü","d2":"Secondary destination"},
+{"id":4,"time":"12:10:45","bus":"004S","d1":"Primary destination æÆøØåÅÉéÄäÜü","d2":"Secondary destination"}]}
